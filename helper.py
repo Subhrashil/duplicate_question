@@ -4,7 +4,7 @@ import distance
 from fuzzywuzzy import fuzz
 import pickle
 import numpy as np
-import sklearn
+
 cv = pickle.load(open('cv.pkl','rb'))
 
 
